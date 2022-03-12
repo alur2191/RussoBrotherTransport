@@ -1,12 +1,13 @@
-# Website for a ground logistics transportation company.
+# Russo Brothers Transport
 
-Webiste built with HTML, CSS and a bit of JS.
+Webiste built with HTML, CSS, and JS for a ground logistics transportation company.
 
-<a href="https://www.russotransport.com/">Live version</a>
+<a href="https://www.russotransport.com/">View live</a>
 
 ### Resources
 
-Icons:  <a href="https://fontawesome.com/">Font Awesome</a>
+**Icons:**  [Font Awesome](https://fontawesome.com/)
 
-Font: <a href="https://fonts.google.com/specimen/Frank+Ruhl+Libre?query=Frank+Ruhln">Frank Ruhl Libre</a> and <a href="https://fonts.google.com/specimen/Lato?query=lato">Lato</a> 
+**Font:** [Frank Ruhl Libre](https://fonts.google.com/specimen/Frank+Ruhl+Libre?query=Frank+Ruhln) and [Lato](https://fonts.google.com/specimen/Lato?query=lato)
 
+**Animations:** [GreenSock - Gsap](https://greensock.com/gsap/)
