@@ -1,6 +1,6 @@
 # Russo Brothers Transport
 
-Webiste built with HTML, CSS, and JS for a ground logistics transportation company.
+Website built with HTML, CSS, and JS for a ground logistics transportation company.
 
 <a href="https://www.russotransport.com/">View live</a>
 
